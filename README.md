@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dammybundlez
+- 👋 Hi, I’m @OguikeGodswill
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on full stack projects
